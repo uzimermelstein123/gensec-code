@@ -1,3 +1,6 @@
+## Uzi Mermelstein
+## FAU Z-Number: Z23806462
+
 # Generative Security Class Examples
 
 This repository contains Python examples for a the Security Engineering with Generative AI course at FAU adapted from the git@github.com:wu4f/cs475-src.git repository by Professor Wu-chang Feng from pdx.edu. 
