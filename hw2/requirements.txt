@@ -1,0 +1,23 @@
+# Dependencies for hw2/app.py
+# Install with:  uv venv && uv pip install -r hw2/requirements.txt
+
+# Core LangChain and vector store
+langchain
+langchain-chroma
+langchain-community
+langchain-text-splitters
+
+# Google Gemini chat model and embeddings
+langchain-google-genai
+
+# API key loading from .env
+python-dotenv
+
+# Document loaders
+pypdf                   # PDF files
+docx2txt                # Word documents
+unstructured            # Markdown and PowerPoint parsing
+markdown                # Markdown parsing support for unstructured
+python-pptx             # PowerPoint (.pptx) files
+beautifulsoup4          # HTML files and web pages
+youtube-transcript-api  # YouTube transcripts
