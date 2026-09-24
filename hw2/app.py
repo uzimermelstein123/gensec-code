@@ -88,7 +88,7 @@ def load_folder(directory):
         docs.extend(loader.load())
     return docs
 
-
+# Z23806462 Uzi Mermelstein
 def load_file(path):
     """Load a single local file, choosing the loader that matches its extension."""
     path = Path(path)
